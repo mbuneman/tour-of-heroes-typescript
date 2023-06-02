@@ -1,0 +1,16 @@
+/*Component's private CSS styles */
+.selected {
+    background-color: hsl(95, 99%, 50%) !important;
+    color: white;
+    }
+    .plante li.selected:hover {
+        background-color: hsl(95, 59%, 40%) !important;
+    }
+
+    .plante .badge {
+        background-color: var(--plante-bg-color);
+    }
+
+    .plante li:hover {
+        background-color: hsl(95, 63%, 61%) !important;
+    }

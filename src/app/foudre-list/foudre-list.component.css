@@ -1,0 +1,16 @@
+/* Component's private CSS styles */
+.selected {
+    background-color: hsl(58, 100%, 50%) !important;
+    color: white;
+    }
+    .foudre li.selected:hover {
+        background-color:  hsl(58, 85%, 42%) !important;
+    }
+
+    .foudre .badge {
+        background-color: var(--foudre-bg-color);
+    }
+
+    .foudre li:hover {
+        background-color: hsl(55, 76%, 56%) !important;
+    }

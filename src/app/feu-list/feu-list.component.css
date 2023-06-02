@@ -1,0 +1,16 @@
+/* HeroesComponent's private CSS styles */
+.selected {
+    background-color: hsl(29, 91%, 46%) !important;
+    }
+    
+    .feu li.selected:hover {
+        background-color: hsl(31, 100%, 50%) !important;
+    }
+    
+    .feu .badge {
+        background-color: var(--feu-bg-color);
+    }
+
+    .feu li:hover {
+        background-color: hsl(29, 60%, 64%) !important;
+    }
